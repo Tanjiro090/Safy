@@ -1,20 +1,42 @@
 mode: dev
 prod:
-  - botname: My Production Bot
-    username: my_production_bot
+  - botname: Safy
+    username: safymanegement_bot
     token: 
-      1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi
+      7656524988:AAGn5Xctwb4fWwQ9myU91r6MAcB3jpzfLyA
     about:
-      "this is some short text about my bot"
-    description:
-      "This is a description of what my bot can do which customer will use"
+      "This is a powerful Telegram Management Bot designed to help admins manage groups easily and securely.
+It keeps groups clean, safe, and well-organized with automated moderation tools.
 
-dev:
-  - botname: Development Bot
-    username: my_development_bot
-    token: 
-      1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi
-    about:
-      "this is some short text about development bot  "
+Features:
+• Admin-only commands  
+• Ban / Mute / Warn system  
+• Spam & flood control  
+• Welcome messages  
+• Fast & lightweight  
+• 24×7 online
+
+Made to simplify group management and save admins time.h"
     description:
-      "This is a description of what my development bot can do with testing"
+      "A simple Telegram management bot to help admins manage groups easily.
+Supports basic moderation tools to keep groups clean and organized.
+  - botname: Safy
+    username: safymanegement_bot
+    token: 
+      7656524988:AAGn5Xctwb4fWwQ9myU91r6MAcB3jpzfLyA
+    about:
+      "This is a powerful Telegram Management Bot designed to help admins manage groups easily and securely.
+It keeps groups clean, safe, and well-organized with automated moderation tools.
+
+Features:
+• Admin-only commands  
+• Ban / Mute / Warn system  
+• Spam & flood control  
+• Welcome messages  
+• Fast & lightweight  
+• 24×7 online
+
+Made to simplify group management and save admins time."
+    description:
+      "A simple Telegram management bot to help admins manage groups easily.
+Supports basic moderation tools to keep groups clean and organized."
